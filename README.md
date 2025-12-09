@@ -24,7 +24,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/matteosalis04/Cookie-Stealer.git
+   git clone https://github.com/MS-0x404/Cookie-Stealer.git
    ```
 
 2. Navigate to the project directory:
